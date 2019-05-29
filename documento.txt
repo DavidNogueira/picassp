@@ -6,3 +6,5 @@ isto é um hotfix do master
 isto é mais uma alteração da feature 2
 
 isto é mais uma alteraçao de fundo da feature 2
+
+esta é a ultima mudança
