@@ -2,3 +2,5 @@ uma alteração qualaquer do branch feature 1
 
 esta alteração é apartir do branch da feature 2
 isto é um hotfix do master
+
+isto é mais uma alteração da feature 2
